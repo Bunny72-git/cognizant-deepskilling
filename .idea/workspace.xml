@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4fe5f4e5-1474-4370-b92d-8e9611e4829a" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/react" />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.6048386185406511" />
+      <entry key="MS500" value="4.0629869917680175" />
+      <entry key="S2" value="6.573816385469198" />
+      <entry key="S5" value="8.220273134378221" />
+      <entry key="S10" value="9.53366375924609" />
+      <entry key="S30" value="10.988669733897773" />
+      <entry key="S60" value="11.465322575736101" />
+      <entry key="M2" value="11.724928941861902" />
+      <entry key="M5" value="11.888050698604069" />
+      <entry key="M10" value="11.943699611416598" />
+      <entry key="M15" value="11.962393601181235" />
+      <entry key="M30" value="11.981160291728676" />
+      <entry key="H1" value="11.990570998784563" />
+      <entry key="H2" value="11.995283210134435" />
+      <entry key="H4" value="11.997641032441459" />
+      <entry key="D1" value="11.999606759182454" />
+      <entry key="W1" value="11.999943820791653" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="1.1414356422890391E-16" />
+      <entry key="MS500" value="6.482425720540356E-4" />
+      <entry key="S2" value="0.18418714173140985" />
+      <entry key="S5" value="0.7072501608553508" />
+      <entry key="S10" value="1.1695612729447002" />
+      <entry key="S30" value="1.666064225592615" />
+      <entry key="S60" value="1.8245286968762793" />
+      <entry key="M2" value="1.9100193205743898" />
+      <entry key="M5" value="1.9634528557483288" />
+      <entry key="M10" value="1.981632574938582" />
+      <entry key="M15" value="1.9877340906694385" />
+      <entry key="M30" value="1.993856539794059" />
+      <entry key="H1" value="1.9969256386445813" />
+      <entry key="H2" value="1.998462160899733" />
+      <entry key="H4" value="1.9992309157679808" />
+      <entry key="D1" value="1.9998717964157053" />
+      <entry key="W1" value="1.9999816846418585" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.4507324836818765" />
+      <entry key="MS500" value="3.9794522259446556" />
+      <entry key="S2" value="6.635237822341731" />
+      <entry key="S5" value="8.743952564808785" />
+      <entry key="S10" value="10.545630645836406" />
+      <entry key="S30" value="12.577339953624996" />
+      <entry key="S60" value="13.24707713977103" />
+      <entry key="M2" value="13.612451813407038" />
+      <entry key="M5" value="13.84222631838613" />
+      <entry key="M10" value="13.920646053349744" />
+      <entry key="M15" value="13.94699296343925" />
+      <entry key="M30" value="13.97344412709624" />
+      <entry key="H1" value="13.986708946331984" />
+      <entry key="H2" value="13.993351190284871" />
+      <entry key="H4" value="13.996674773974577" />
+      <entry key="D1" value="13.999445681573325" />
+      <entry key="W1" value="13.999920808858816" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3GknSAUjwDmP2I1FzJoB4EXKlYy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Node.js.App.js.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/VINAY/OneDrive/Desktop/cognizant-deepskilling-new",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-37e91769500f-intellij.indexing.shared.core-IU-261.26222.65" />
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-IU-261.26222.65" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4fe5f4e5-1474-4370-b92d-8e9611e4829a" name="Changes" comment="" />
+      <created>1784524432193</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1784524432193</updated>
+      <workItem from="1784524433367" duration="1370000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
