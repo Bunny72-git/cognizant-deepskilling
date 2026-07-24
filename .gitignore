@@ -10,8 +10,6 @@ ticketbookingapp/.env
 # Ignore root generated files from npm install in wrong directory
 /package-lock.json
 
-ticketbookingapp/package-lock.json
-
 # Editor folders
 .idea/
 .vscode/

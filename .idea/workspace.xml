@@ -5,7 +5,196 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4fe5f4e5-1474-4370-b92d-8e9611e4829a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/CohortDashboard/CohortDashboard/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/CohortDashboard/CohortDashboard/.oxlintrc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/CohortDashboard/CohortDashboard/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/CohortDashboard/CohortDashboard/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/CohortDashboard/CohortDashboard/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/CohortDashboard/CohortDashboard/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/CohortDashboard/CohortDashboard/public/favicon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/CohortDashboard/CohortDashboard/public/icons.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/CohortDashboard/CohortDashboard/src/App.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/CohortDashboard/CohortDashboard/src/CohortDetails.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/CohortDashboard/CohortDashboard/src/CohortDetails.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/CohortDashboard/CohortDashboard/src/assets/hero.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/CohortDashboard/CohortDashboard/src/assets/vite.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/CohortDashboard/CohortDashboard/src/cohortData.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/CohortDashboard/CohortDashboard/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/CohortDashboard/CohortDashboard/src/main.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/CohortDashboard/CohortDashboard/vite.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/CounterApp/CounterApp/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/CounterApp/CounterApp/.oxlintrc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/CounterApp/CounterApp/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/CounterApp/CounterApp/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/CounterApp/CounterApp/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/CounterApp/CounterApp/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/CounterApp/CounterApp/public/favicon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/CounterApp/CounterApp/public/icons.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/CounterApp/CounterApp/src/App.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/CounterApp/CounterApp/src/CountPeople.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/CounterApp/CounterApp/src/assets/hero.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/CounterApp/CounterApp/src/assets/vite.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/CounterApp/CounterApp/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/CounterApp/CounterApp/src/main.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/CounterApp/CounterApp/vite.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/CricketApp/CricketApp/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/CricketApp/CricketApp/.oxlintrc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/CricketApp/CricketApp/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/CricketApp/CricketApp/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/CricketApp/CricketApp/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/CricketApp/CricketApp/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/CricketApp/CricketApp/public/favicon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/CricketApp/CricketApp/public/icons.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/CricketApp/CricketApp/src/App.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/CricketApp/CricketApp/src/IndianPlayers.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/CricketApp/CricketApp/src/ListofPlayers.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/CricketApp/CricketApp/src/assets/hero.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/CricketApp/CricketApp/src/assets/vite.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/CricketApp/CricketApp/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/CricketApp/CricketApp/src/main.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/CricketApp/CricketApp/vite.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/OfficeSpaceRentalApp/OfficeSpaceRentalApp/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/OfficeSpaceRentalApp/OfficeSpaceRentalApp/.oxlintrc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/OfficeSpaceRentalApp/OfficeSpaceRentalApp/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/OfficeSpaceRentalApp/OfficeSpaceRentalApp/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/OfficeSpaceRentalApp/OfficeSpaceRentalApp/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/OfficeSpaceRentalApp/OfficeSpaceRentalApp/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/OfficeSpaceRentalApp/OfficeSpaceRentalApp/public/favicon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/OfficeSpaceRentalApp/OfficeSpaceRentalApp/public/icons.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/OfficeSpaceRentalApp/OfficeSpaceRentalApp/src/App.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/OfficeSpaceRentalApp/OfficeSpaceRentalApp/src/assets/hero.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/OfficeSpaceRentalApp/OfficeSpaceRentalApp/src/assets/vite.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/OfficeSpaceRentalApp/OfficeSpaceRentalApp/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/OfficeSpaceRentalApp/OfficeSpaceRentalApp/src/main.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/OfficeSpaceRentalApp/OfficeSpaceRentalApp/vite.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/ShoppingApp/ShoppingApp/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/ShoppingApp/ShoppingApp/.oxlintrc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/ShoppingApp/ShoppingApp/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/ShoppingApp/ShoppingApp/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/ShoppingApp/ShoppingApp/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/ShoppingApp/ShoppingApp/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/ShoppingApp/ShoppingApp/public/favicon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/ShoppingApp/ShoppingApp/public/icons.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/ShoppingApp/ShoppingApp/src/App.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/ShoppingApp/ShoppingApp/src/Cart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/ShoppingApp/ShoppingApp/src/OnlineShopping.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/ShoppingApp/ShoppingApp/src/assets/hero.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/ShoppingApp/ShoppingApp/src/assets/vite.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/ShoppingApp/ShoppingApp/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/ShoppingApp/ShoppingApp/src/main.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/ShoppingApp/ShoppingApp/vite.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/TrainersApp/TrainersApp/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/TrainersApp/TrainersApp/.oxlintrc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/TrainersApp/TrainersApp/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/TrainersApp/TrainersApp/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/TrainersApp/TrainersApp/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/TrainersApp/TrainersApp/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/TrainersApp/TrainersApp/public/favicon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/TrainersApp/TrainersApp/public/icons.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/TrainersApp/TrainersApp/src/App.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/TrainersApp/TrainersApp/src/Home.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/TrainersApp/TrainersApp/src/TrainerDetails.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/TrainersApp/TrainersApp/src/Trainerlist.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/TrainersApp/TrainersApp/src/TrainersMock.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/TrainersApp/TrainersApp/src/assets/hero.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/TrainersApp/TrainersApp/src/assets/vite.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/TrainersApp/TrainersApp/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/TrainersApp/TrainersApp/src/main.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/TrainersApp/TrainersApp/src/trainer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/TrainersApp/TrainersApp/vite.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/blogapp/blogapp/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/blogapp/blogapp/.oxlintrc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/blogapp/blogapp/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/blogapp/blogapp/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/blogapp/blogapp/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/blogapp/blogapp/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/blogapp/blogapp/public/favicon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/blogapp/blogapp/public/icons.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/blogapp/blogapp/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/blogapp/blogapp/src/App.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/blogapp/blogapp/src/Post.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/blogapp/blogapp/src/Posts.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/blogapp/blogapp/src/assets/hero.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/blogapp/blogapp/src/assets/react.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/blogapp/blogapp/src/assets/vite.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/blogapp/blogapp/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/blogapp/blogapp/src/main.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/blogapp/blogapp/vite.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/eventexamplesapp/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/eventexamplesapp/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/eventexamplesapp/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/eventexamplesapp/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/eventexamplesapp/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/eventexamplesapp/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/eventexamplesapp/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/eventexamplesapp/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/eventexamplesapp/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/eventexamplesapp/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/eventexamplesapp/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/eventexamplesapp/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/eventexamplesapp/src/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/eventexamplesapp/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/eventexamplesapp/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/eventexamplesapp/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/eventexamplesapp/src/reportWebVitals.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/eventexamplesapp/src/setupTests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/myfirstreact/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/myfirstreact/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/myfirstreact/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/myfirstreact/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/myfirstreact/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/myfirstreact/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/myfirstreact/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/myfirstreact/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/myfirstreact/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/myfirstreact/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/myfirstreact/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/myfirstreact/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/myfirstreact/src/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/myfirstreact/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/myfirstreact/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/myfirstreact/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/myfirstreact/src/reportWebVitals.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/myfirstreact/src/setupTests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/scoreCalculatorApp/scorecalculatorapp/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/scoreCalculatorApp/scorecalculatorapp/.oxlintrc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/scoreCalculatorApp/scorecalculatorapp/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/scoreCalculatorApp/scorecalculatorapp/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/scoreCalculatorApp/scorecalculatorapp/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/scoreCalculatorApp/scorecalculatorapp/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/scoreCalculatorApp/scorecalculatorapp/public/favicon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/scoreCalculatorApp/scorecalculatorapp/public/icons.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/scoreCalculatorApp/scorecalculatorapp/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/scoreCalculatorApp/scorecalculatorapp/src/App.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/scoreCalculatorApp/scorecalculatorapp/src/CalculateScore.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/scoreCalculatorApp/scorecalculatorapp/src/Stylesheets/mystyle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/scoreCalculatorApp/scorecalculatorapp/src/assets/hero.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/scoreCalculatorApp/scorecalculatorapp/src/assets/react.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/scoreCalculatorApp/scorecalculatorapp/src/assets/vite.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/scoreCalculatorApp/scorecalculatorapp/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/scoreCalculatorApp/scorecalculatorapp/src/main.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/scoreCalculatorApp/scorecalculatorapp/vite.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/studentapp/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/studentapp/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/studentapp/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/studentapp/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/studentapp/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/studentapp/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/studentapp/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/studentapp/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/studentapp/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/studentapp/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/studentapp/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/studentapp/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/studentapp/src/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/studentapp/src/components/About.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/studentapp/src/components/contact.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/studentapp/src/components/home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/studentapp/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/studentapp/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/studentapp/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/studentapp/src/reportWebVitals.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/studentapp/src/setupTests.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,7 +202,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/react" />
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
@@ -83,30 +272,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Node.js.App.js.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/VINAY/OneDrive/Desktop/cognizant-deepskilling-new&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Node.js.App.js.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/VINAY/OneDrive/Desktop/cognizant-deepskilling-new",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -126,6 +315,7 @@
       <workItem from="1784639417909" duration="302000" />
       <workItem from="1784910057132" duration="47000" />
       <workItem from="1784910298184" duration="1183000" />
+      <workItem from="1784912263152" duration="178000" />
     </task>
     <servers />
   </component>
