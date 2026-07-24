@@ -1,0 +1,88 @@
+.app-container {
+  font-family: Arial, sans-serif;
+  background: #f2f7ff;
+  min-height: 100vh;
+  padding: 20px;
+  color: #1f2937;
+}
+
+.main-content {
+  max-width: 760px;
+  margin: 24px auto;
+  background: #ffffff;
+  border-radius: 14px;
+  box-shadow: 0 12px 28px rgba(15, 23, 42, 0.08);
+  padding: 24px;
+}
+
+.message-box {
+  margin-top: 16px;
+  background: #e0f5e9;
+  color: #1f6f3d;
+  padding: 14px 18px;
+  border-radius: 10px;
+  border: 1px solid #a8e1bd;
+}
+
+button {
+  border: none;
+  border-radius: 8px;
+  padding: 10px 18px;
+  font-size: 14px;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+}
+
+button:hover {
+  opacity: 0.95;
+}
+
+.login-button,
+.logout-button {
+  background: #2563eb;
+  color: white;
+}
+
+.logout-button {
+  background: #ef4444;
+}
+
+.flight-list {
+  margin-top: 20px;
+}
+
+.flight-card {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 16px;
+  border-radius: 12px;
+  background: #f8fafc;
+  border: 1px solid #e2e8f0;
+  margin-bottom: 14px;
+}
+
+.flight-details {
+  display: grid;
+  gap: 4px;
+}
+
+.flight-details span {
+  color: #334155;
+}
+
+.book-button {
+  background: #10b981;
+  color: white;
+}
+
+.page-title {
+  font-size: 28px;
+  font-weight: 700;
+  margin-bottom: 12px;
+}
+
+.page-description {
+  color: #475569;
+  margin-bottom: 18px;
+}
